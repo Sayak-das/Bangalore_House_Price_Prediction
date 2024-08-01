@@ -31,7 +31,7 @@ This project aims to predict the prices of houses in Bangalore based on various 
 ### Clone the Repository
 
 ```bash
-git clone 
+git clone https://github.com/Sayak-das/Bangalore_House_Price_Prediction
 cd bangalore-house-prediction
 ```
 
@@ -77,10 +77,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
----
-
-Feel free to reach out if you have any questions or need further assistance. Happy coding!
-
----
-
-Replace the placeholders like `yourusername` with your actual GitHub username and make sure to include all relevant details specific to your project. If you have additional sections like "Datasets," "API Endpoints," or "Future Work," you can add them as needed.
