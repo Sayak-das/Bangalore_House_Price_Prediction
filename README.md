@@ -32,7 +32,7 @@ This project aims to predict the prices of houses in Bangalore based on various 
 
 ```bash
 git clone https://github.com/Sayak-das/Bangalore_House_Price_Prediction
-cd bangalore-house-prediction
+cd Bangalore_House_Price_Prediction
 ```
 
 ### Install Dependencies
