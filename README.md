@@ -19,7 +19,7 @@ This project aims to predict the prices of houses in Bangalore based on various 
 
 - **User Input:** Enter house features such as location, area, BHK, etc.
 - **Price Prediction:** Get an estimated price based on the input features.
-- **Responsive Design:** Works on both desktop.
+
 
 ## Installation
 
